@@ -1,64 +1,119 @@
-# DVWA Web Application Penetration Test — Capstone Project
+# Task 5 — Capstone Project & Incident Response
+> ApexPlanet Cybersecurity & Ethical Hacking Internship | Days 49–60
 
-**ApexPlanet Cybersecurity & Ethical Hacking Internship — Task 5**
-Offer Letter ID: APSPL2640160
+![Task](https://img.shields.io/badge/Task-5%20of%205-blue)
+![Timeline](https://img.shields.io/badge/Timeline-Days%2049--60-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-DVWA%20Pentest%20%26%20IR-red)
 
-## Overview
+---
 
-This capstone project presents a controlled-environment penetration test of DVWA across its built-in security levels, covering SQL injection, XSS, CSRF, LFI/RFI, and authentication weaknesses. It also includes an incident-response simulation showing detection, containment, and eradication of a live attack.
+## 🎯 Objective
 
-**Disclaimer:** All testing was performed exclusively against DVWA running in an isolated host-only lab network under my own control. No external or third-party systems were targeted.
+Complete a full DVWA penetration testing capstone and document a practical incident response workflow including detection, containment, and eradication.
 
-## Repository Structure
+---
+
+## 📁 Files in This Folder
+
+| File/Folder | Description |
+|------|-------------|
+| [DVWA-Pentest-Task5](./DVWA-Pentest-Task5/) | Final capstone project package containing report, evidence, scripts, and docs |
+| [README.md](./README.md) | This file |
+
+---
+
+## 🧪 Lab Setup
+
+| Component | Details |
+|-----------|---------|
+| **Attacker OS** | Kali Linux |
+| **Target VM** | Metasploitable2 with DVWA |
+| **Attack Surface** | DVWA modules (SQLi, XSS, CSRF, File Inclusion) |
+| **Network** | Isolated VirtualBox lab network |
+
+---
+
+## ✅ Activities Completed
+
+### 1. End-to-End DVWA Pentest
+- Executed vulnerability tests across DVWA security levels
+- Collected evidence for SQL Injection, XSS, CSRF, LFI, and RFI
+- Documented risk and impact in final report formats
+
+### 2. Automated SQLi Validation
+- Used `sqlmap` to enumerate databases and tables
+- Saved proof outputs in the SQLi evidence folder
+
+### 3. Incident Response Simulation
+- Parsed Apache log data using `log_detection.py`
+- Identified suspicious patterns and source activity
+- Exported findings to CSV for reporting
+- Recorded containment and eradication evidence
+
+---
+
+## 📦 Task 5 Project Structure
 
 ```text
 Task 5/
 ├── README.md
-├── DVWA_Pentest_Report_Template.docx
-├── DVWA_Pentest_Report_Template.pdf
-├── Task5_Procedure_Guide.md
-├── log_detection.py
-└── network_diagram.svg
+└── DVWA-Pentest-Task5/
+    ├── report/
+    │   ├── DVWA_Pentest_Report.docx
+    │   └── DVWA_Pentest_Report.pdf
+    ├── diagrams/
+    │   └── network_diagram.svg
+    ├── scripts/
+    │   └── log_detection.py
+    ├── evidence/
+    │   ├── sqli/
+    │   ├── xss/
+    │   ├── csrf/
+    │   ├── file_inclusion/
+    │   └── incident_response/
+    ├── logs/
+    │   └── sample_access.log
+    └── docs/
+        └── procedure.md
 ```
 
-## Lab Environment
+---
 
-| Role | Machine | IP |
-|---|---|---|
-| Attacker | Kali Linux | 192.168.56.10 |
-| Target | Metasploitable2 / DVWA | 192.168.56.20 |
+## 🛠️ Tools Used
 
-Network: VirtualBox Host-Only Adapter, `192.168.56.0/24`, with no internet egress from the target.
+| Tool | Purpose |
+|------|---------|
+| DVWA | Vulnerable web application for testing |
+| sqlmap | Automated SQL injection testing |
+| Burp Suite | Request interception and manipulation |
+| Python | Log signature detection and IR support |
+| Nmap/Nikto | Recon and web surface discovery |
 
-## Vulnerabilities Tested
+---
 
-| ID | Vulnerability | Severity |
-|---|---|---|
-| F-01 | SQL Injection | Critical |
-| F-02 | Reflected XSS | High |
-| F-03 | Stored XSS | High |
-| F-04 | CSRF (password change) | Medium |
-| F-05 | Local File Inclusion | Critical |
-| F-06 | Remote File Inclusion | Critical |
-| F-07 | No account lockout | Low |
+## 📦 Deliverables
 
-## Incident Response Simulation
+- [x] Final penetration testing report (DOCX + PDF)
+- [x] Organized evidence per vulnerability category
+- [x] Incident response findings CSV
+- [x] Detection script and sample logs
+- [x] Procedure documentation
 
-`log_detection.py` scans Apache access logs for known attack signatures such as SQL injection, XSS, and LFI/RFI patterns. It flags the source IP, timestamp, and severity to demonstrate detection, containment, eradication, and post-incident reporting.
+---
 
-```bash
-python3 log_detection.py access.log --out findings.csv
-```
+## 🔗 Links
 
-## Tools Used
+- 📹 **Video Walkthrough:** [LinkedIn Profile](https://www.linkedin.com/in/mr-manivel-r/)
+- 📄 **Procedure Document:** [procedure.md](./DVWA-Pentest-Task5/docs/procedure.md)
+- 🧠 **Detection Script:** [log_detection.py](./DVWA-Pentest-Task5/scripts/log_detection.py)
+- 📂 **Evidence Folder:** [evidence](./DVWA-Pentest-Task5/evidence/)
+- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
+- 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
 
-Nmap · Nikto · Burp Suite · sqlmap · Hydra · Wireshark · custom Python detection script
+---
 
-## Video Walkthrough
+> ⚠️ All activities were performed in an isolated lab environment for educational purposes only.
 
-12-minute demonstration: [LinkedIn link — add after upload]
-
-## Author
-
-Manivel R — B.E. CSE (AI & ML), University College of Engineering, BIT Campus, Anna University
-[manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io) · [LinkedIn](https://linkedin.com/in/mr-manivel-r)
+*Manivel R | ApexPlanet Internship 2026 | Anna University*

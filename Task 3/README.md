@@ -18,11 +18,11 @@ Identify and exploit OWASP Top 10 vulnerabilities in a controlled lab environmen
 
 | File | Description |
 |------|-------------|
-| `task3-notes.md` | Detailed notes covering the main Task 3 topics |
-| `task3-cheatsheet.md` | Quick reference for SQL injection, XSS, CSRF, LFI, and Burp Suite |
-| `csrf-demo.html` | CSRF attack demo page for educational use |
-| `screenshots/` | Evidence screenshots from the attack demonstrations |
-| `README.md` | This file |
+| [task3-notes.md](./task3-notes.md) | Detailed notes covering the main Task 3 topics |
+| [task3-cheatsheet.md](./task3-cheatsheet.md) | Quick reference for SQL injection, XSS, CSRF, LFI, and Burp Suite |
+| [csrf-demo.html](./csrf-demo.html) | CSRF attack demo page for educational use |
+| [screenshots](./screenshots/) | Evidence screenshots from the attack demonstrations |
+| [README.md](./README.md) | This file |
 
 ---
 
@@ -120,8 +120,12 @@ Identify and exploit OWASP Top 10 vulnerabilities in a controlled lab environmen
 ## 🔗 Links
 
 - 📹 **Video Walkthrough:** [LinkedIn Post](https://www.linkedin.com/posts/mr-manivel-r_cybersecurity-ethicalhacking-websecurity-activity-7488228100615323649-bQsO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGDJA9sBzSi23edH7UWChoU_mcEMAARlJJ8)
+- 📁 **Task Notes:** [task3-notes.md](./task3-notes.md)
+- 📄 **Task Cheatsheet:** [task3-cheatsheet.md](./task3-cheatsheet.md)
+- 📂 **Task Evidence:** [screenshots](./screenshots/)
 - 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
 - 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
 
 ---
 

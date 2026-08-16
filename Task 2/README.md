@@ -18,12 +18,12 @@ Learn reconnaissance techniques, network scanning, vulnerability assessment, pac
 
 | File | Description |
 |------|-------------|
-| `task2-notes.md` | Detailed notes covering the major Task 2 topics |
-| `task2-cheatsheet.md` | Quick reference for Nmap, Wireshark, and iptables |
-| `task2-nmap-report.txt` | Full Nmap scan output against Metasploitable2 |
-| `open-vas-report.pdf` | OpenVAS vulnerability assessment report |
-| `ip-tables.png` | Screenshot showing example firewall rule output |
-| `README.md` | This file |
+| [task2-notes.md](./task2-notes.md) | Detailed notes covering the major Task 2 topics |
+| [task2-cheatsheet.md](./task2-cheatsheet.md) | Quick reference for Nmap, Wireshark, and iptables |
+| [task2-nmap-report.txt](./task2-nmap-report.txt) | Full Nmap scan output against Metasploitable2 |
+| [open-vas-report.pdf](./open-vas-report.pdf) | OpenVAS vulnerability assessment report |
+| [ip-tables.png](./ip-tables.png) | Screenshot showing example firewall rule output |
+| [README.md](./README.md) | This file |
 
 ---
 
@@ -123,9 +123,13 @@ OS detected: Linux 2.6.x
 
 ## 🔗 Links
 
-- 📹 **Video Walkthrough:** [LinkedIn Post](#)
+- 📹 **Video Walkthrough:** [LinkedIn Profile](https://www.linkedin.com/in/mr-manivel-r/)
+- 📁 **Task Notes:** [task2-notes.md](./task2-notes.md)
+- 📄 **Task Cheatsheet:** [task2-cheatsheet.md](./task2-cheatsheet.md)
+- 📂 **Task Scan Report:** [task2-nmap-report.txt](./task2-nmap-report.txt)
 - 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
 - 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
 
 ---
 

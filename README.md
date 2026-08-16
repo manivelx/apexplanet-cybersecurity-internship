@@ -3,7 +3,7 @@
 ![Internship](https://img.shields.io/badge/Internship-ApexPlanet%20Software-blue)
 ![Duration](https://img.shields.io/badge/Duration-60%20Days-green)
 ![Domain](https://img.shields.io/badge/Domain-Cybersecurity%20%26%20Ethical%20Hacking-red)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > 60-day AICTE-recognized cybersecurity and ethical hacking internship by ApexPlanet Software Pvt. Ltd.
 > Completed by Manivel R | B.E. CSE (AI & ML) | Anna University, Tiruchirappalli | 2026
@@ -77,11 +77,24 @@ apexplanet-cybersecurity-internship/
 │   └── task4-notes.md
 └── Task 5/
     ├── README.md
-    ├── DVWA_Pentest_Report_Template.docx
-    ├── DVWA_Pentest_Report_Template.pdf
-    ├── Task5_Procedure_Guide.md
-    ├── log_detection.py
-    └── network_diagram.svg
+    └── DVWA-Pentest-Task5/
+        ├── report/
+        │   ├── DVWA_Pentest_Report.docx
+        │   └── DVWA_Pentest_Report.pdf
+        ├── diagrams/
+        │   └── network_diagram.svg
+        ├── scripts/
+        │   └── log_detection.py
+        ├── evidence/
+        │   ├── sqli/
+        │   ├── xss/
+        │   ├── csrf/
+        │   ├── file_inclusion/
+        │   └── incident_response/
+        ├── logs/
+        │   └── sample_access.log
+        └── docs/
+            └── procedure.md
 ```
 
 ---

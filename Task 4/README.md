@@ -18,11 +18,11 @@ Learn the full penetration testing workflow and responsibly exploit vulnerabilit
 
 | File | Description |
 |------|-------------|
-| `task4-notes.md` | Detailed notes covering the main Task 4 topics |
-| `task4-cheatsheet.md` | Quick reference for Metasploit, Hydra, John, and msfvenom |
-| `malware-analysis/` | Folder containing malware analysis notes and related material |
-| `screenshots/` | Evidence screenshots from the exercises |
-| `README.md` | This file |
+| [task4-notes.md](./task4-notes.md) | Detailed notes covering the main Task 4 topics |
+| [task4-cheatsheet.md](./task4-cheatsheet.md) | Quick reference for Metasploit, Hydra, John, and msfvenom |
+| [malware-analysis](./malware-analysis/) | Folder containing malware analysis notes and related material |
+| [screenshots](./screenshots/) | Evidence screenshots from the exercises |
+| [README.md](./README.md) | This file |
 
 ---
 
@@ -146,8 +146,12 @@ john combined.txt --wordlist=/usr/share/wordlists/rockyou.txt
 ## 🔗 Links
 
 - 📹 **Video Walkthrough:** [LinkedIn Post](https://www.linkedin.com/posts/mr-manivel-r_cybersecurity-ethicalhacking-penetrationtesting-ugcPost-7488652847006306304-2vMU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGDJA9sBzSi23edH7UWChoU_mcEMAARlJJ8)
+- 📁 **Task Notes:** [task4-notes.md](./task4-notes.md)
+- 📄 **Task Cheatsheet:** [task4-cheatsheet.md](./task4-cheatsheet.md)
+- 📂 **Task Evidence:** [screenshots](./screenshots/)
 - 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
 - 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
 
 ---
 

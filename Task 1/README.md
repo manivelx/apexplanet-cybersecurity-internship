@@ -18,10 +18,10 @@ Build strong fundamentals in cybersecurity, networking, and cryptography while s
 
 | File | Description |
 |------|-------------|
-| `task1-notes.md` | Detailed notes covering the main Task 1 topics |
-| `task1-cheatsheet.md` | Quick reference for Linux, Nmap, Wireshark, OpenSSL, and Netcat |
-| `Screenshots/` | Evidence screenshots from the lab setup and tool demonstrations |
-| `README.md` | This file |
+| [task1-notes.md](./task1-notes.md) | Detailed notes covering the main Task 1 topics |
+| [task1-cheatsheet.md](./task1-cheatsheet.md) | Quick reference for Linux, Nmap, Wireshark, OpenSSL, and Netcat |
+| [Screenshots](./Screenshots/) | Evidence screenshots from the lab setup and tool demonstrations |
+| [README.md](./README.md) | This file |
 
 ---
 
@@ -107,6 +107,10 @@ Build strong fundamentals in cybersecurity, networking, and cryptography while s
 ## 🔗 Links
 
 - 📹 **Video Walkthrough:** [LinkedIn Post](https://www.linkedin.com/posts/mr-manivel-r_cybersecurity-ethicalhacking-kalilinux-ugcPost-7478102713994489857-Jvxg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGDJA9sBzSi23edH7UWChoU_mcEMAARlJJ8)
+- 📁 **Task Notes:** [task1-notes.md](./task1-notes.md)
+- 📄 **Task Cheatsheet:** [task1-cheatsheet.md](./task1-cheatsheet.md)
+- 📂 **Task Evidence:** [Screenshots](./Screenshots/)
+- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
 - 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
 - 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
 

@@ -104,7 +104,7 @@ Task 5/
 
 ## 🔗 Links
 
-- 📹 **Video Walkthrough:** [LinkedIn Profile](https://www.linkedin.com/in/mr-manivel-r/)
+- 📹 **Video Walkthrough:** [Watch Here](https://www.linkedin.com/posts/mr-manivel-r_cybersecurity-ethicalhacking-penetrationtesting-ugcPost-7494772118019190784-2Vvy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGDJA9sBzSi23edH7UWChoU_mcEMAARlJJ8)
 - 📄 **Procedure Document:** [procedure.md](./DVWA-Pentest-Task5/docs/procedure.md)
 - 🧠 **Detection Script:** [log_detection.py](./DVWA-Pentest-Task5/scripts/log_detection.py)
 - 📂 **Evidence Folder:** [evidence](./DVWA-Pentest-Task5/evidence/)

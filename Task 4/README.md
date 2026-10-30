@@ -149,9 +149,9 @@ john combined.txt --wordlist=/usr/share/wordlists/rockyou.txt
 - 📁 **Task Notes:** [task4-notes.md](./task4-notes.md)
 - 📄 **Task Cheatsheet:** [task4-cheatsheet.md](./task4-cheatsheet.md)
 - 📂 **Task Evidence:** [screenshots](./screenshots/)
-- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
-- 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
+- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivelx/apexplanet-cybersecurity-internship)
+- 🌐 **Portfolio:** [manivelx.github.io](https://manivelx.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/manivelr](https://www.linkedin.com/in/manivelr/)
 
 ---
 

@@ -110,9 +110,9 @@ Build strong fundamentals in cybersecurity, networking, and cryptography while s
 - 📁 **Task Notes:** [task1-notes.md](./task1-notes.md)
 - 📄 **Task Cheatsheet:** [task1-cheatsheet.md](./task1-cheatsheet.md)
 - 📂 **Task Evidence:** [Screenshots](./Screenshots/)
-- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
-- 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
+- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivelx/apexplanet-cybersecurity-internship)
+- 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivelx.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/manivelr/)
 
 ---
 

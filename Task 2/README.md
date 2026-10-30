@@ -129,7 +129,7 @@ OS detected: Linux 2.6.x
 - 📂 **Task Scan Report:** [task2-nmap-report.txt](./task2-nmap-report.txt)
 - 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivelx/apexplanet-cybersecurity-internship)
 - 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivelx.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/manivelr/)
+- 💼 **LinkedIn:** [linkedin.com/in/manivelr](https://www.linkedin.com/in/manivelr/)
 
 ---
 

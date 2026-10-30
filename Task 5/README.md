@@ -108,9 +108,9 @@ Task 5/
 - 📄 **Procedure Document:** [procedure.md](./DVWA-Pentest-Task5/docs/procedure.md)
 - 🧠 **Detection Script:** [log_detection.py](./DVWA-Pentest-Task5/scripts/log_detection.py)
 - 📂 **Evidence Folder:** [evidence](./DVWA-Pentest-Task5/evidence/)
-- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
-- 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
+- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivelx/apexplanet-cybersecurity-internship)
+- 🌐 **Portfolio:** [manivelx.github.io](https://manivelx.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/manivelr](https://www.linkedin.com/in/manivelr/)
 
 ---
 

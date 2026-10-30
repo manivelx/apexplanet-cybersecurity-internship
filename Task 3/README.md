@@ -123,9 +123,9 @@ Identify and exploit OWASP Top 10 vulnerabilities in a controlled lab environmen
 - 📁 **Task Notes:** [task3-notes.md](./task3-notes.md)
 - 📄 **Task Cheatsheet:** [task3-cheatsheet.md](./task3-cheatsheet.md)
 - 📂 **Task Evidence:** [screenshots](./screenshots/)
-- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
-- 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
+- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivelx/apexplanet-cybersecurity-internship)
+- 🌐 **Portfolio:** [manivelx.github.io](https://manivelx.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/manivelr](https://www.linkedin.com/in/manivelr/)
 
 ---
 

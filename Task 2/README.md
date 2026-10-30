@@ -123,13 +123,13 @@ OS detected: Linux 2.6.x
 
 ## 🔗 Links
 
-- 📹 **Video Walkthrough:** [LinkedIn Profile](https://www.linkedin.com/in/mr-manivel-r/)
+- 📹 **Video Walkthrough:** [LinkedIn Post](https://lnkd.in/p/g4HzaGJe)
 - 📁 **Task Notes:** [task2-notes.md](./task2-notes.md)
 - 📄 **Task Cheatsheet:** [task2-cheatsheet.md](./task2-cheatsheet.md)
 - 📂 **Task Scan Report:** [task2-nmap-report.txt](./task2-nmap-report.txt)
-- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivel-cyber-ai/apexplanet-cybersecurity-internship)
-- 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io)
-- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/mr-manivel-r/)
+- 📁 **Main Repo:** [apexplanet-cybersecurity-internship](https://github.com/manivelx/apexplanet-cybersecurity-internship)
+- 🌐 **Portfolio:** [manivel-cyber-ai.github.io](https://manivelx.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/mr-manivel-r](https://www.linkedin.com/in/manivelr/)
 
 ---
 

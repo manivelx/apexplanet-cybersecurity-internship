@@ -17,8 +17,8 @@
 | **Name** | Manivel R |
 | **College** | University College of Engineering, BIT Campus, Anna University |
 | **Degree** | B.E. Computer Science Engineering (AI & ML) |
-| **GitHub** | [@manivel-cyber-ai](https://github.com/manivel-cyber-ai) |
-| **Portfolio** | [manivel-cyber-ai.github.io](https://manivel-cyber-ai.github.io) |
+| **GitHub** | [@manivelx](https://github.com/manivelx) |
+| **Portfolio** | [manivelx.github.io](https://manivelx.github.io) |
 
 ---
 
